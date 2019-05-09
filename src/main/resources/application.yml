@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://rm-bp194e4uj9873e6m6.mysql.rds.aliyuncs.com/mone2019?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false
-    username: mone_root
+    username: mone_roottttTTTT
     password: nYWTpo1Tr7CfiWKt
   druid:
       initialSize: 1
